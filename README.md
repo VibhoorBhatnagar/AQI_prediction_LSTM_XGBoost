@@ -1,5 +1,5 @@
 ****Air Quality Index (AQI) Forecasting for Indian Cities****
-`````````````````````````````````````````````````````````````
+
 
 **Introduction**
 
@@ -38,4 +38,5 @@ This project aims to forecast the Air Quality Index (AQI) for various cities in 
 
 **Conclusion**
 
-This project highlights the utility of combining machine learning models with geospatial analysis to provide accurate AQI predictions. These predictions are vital for urban planning and public health policy, supporting efforts to mitigate air pollution in urban environments across India.
+This project highlights the utility of combining machine learning models with geospatial analysis to provide accurate AQI predictions. 
+These predictions are vital for urban planning and public health policy, supporting efforts to mitigate air pollution in urban environments across India.
