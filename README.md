@@ -1,5 +1,8 @@
-**Air Quality Index (AQI) Forecasting for Indian Cities**
+****Air Quality Index (AQI) Forecasting for Indian Cities****
+`````````````````````````````````````````````````````````````
+
 **Introduction**
+
 This project aims to forecast the Air Quality Index (AQI) for various cities in India by leveraging machine learning models and geospatial analysis. The dataset, sourced from the Government of India’s data portal, includes historical pollutant levels for multiple cities. Our goal is to support urban planning and public health policies by providing accurate AQI forecasts and highlighting key pollutant trends.
 
 **Project Overview**
